@@ -14,6 +14,7 @@ yarn start
 ```
 
 To test the server, visit http://localhost:8080/ in your local browser.
+
 Keep in mind this repo is for DEMO purpose only. It illustrates the tutorial available from the bottom links of this readme.md. This DEMO already provides a package.json file that was generated in a way described [here](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/#L-a-class--toc-target--id--installing-dependencies-and-running-the-server----a-Installing-Dependencies-and-Running-the-Server).
 
 Whenever you want to use this container for personal purpose, you'd better read the tutorial before cloning this repo to a new directory labelled after your project's name and start editing Docker files regarding your needs, build a fresh container.
